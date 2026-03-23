@@ -254,9 +254,9 @@ After each query result, the user is offered the option to return to the main me
 
 ## Authors
 
-| Name | ID |
-|------|----|
-| Paula de Blas Rioja | 16629972Y |
+| Name | 
+|------|
+| Paula de Blas Rioja |
 
 
 ---
