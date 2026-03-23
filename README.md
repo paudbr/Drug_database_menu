@@ -2,7 +2,7 @@
 
 A command-line application for programmatic access to the **DisNet** (Disease Network) database, enabling querying, management and modification of data on drugs, diseases, phenotypic effects and molecular targets.
 
-> Developed by **Paula de Blas Rioja** and **Lucía de Lamadrid Ordóñez** — Database Systems, 2023–2024.
+> Developed by **Paula de Blas Rioja** — Database Systems, 2023–2024.
 
 ---
 
@@ -254,10 +254,9 @@ After each query result, the user is offered the option to return to the main me
 
 ## Authors
 
-| Name | ID |
-|------|----|
-| Paula de Blas Rioja | 16629972Y |
-| Lucía de Lamadrid Ordóñez | 09133993A |
+| Name |
+|------|
+| Paula de Blas Rioja |
 
 ---
 
